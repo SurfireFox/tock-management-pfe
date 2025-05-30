@@ -1,1 +1,1 @@
-# tock-management-pfe
+# stock-management-pfe
